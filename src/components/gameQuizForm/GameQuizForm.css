@@ -1,0 +1,15 @@
+.game-quiz__form {
+  width: 60%;
+}
+.game-quiz__input {
+  width: 100%;
+  border-radius: 5px;
+  height: 25px;
+  border: none;
+  padding: 5px;
+  font-size: 1.5rem;
+}
+
+.game-quiz__input::placeholder {
+  color: gray;
+}

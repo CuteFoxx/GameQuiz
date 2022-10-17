@@ -1,0 +1,15 @@
+.hearts-container {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+
+  display: flex;
+  gap: 5px;
+}
+.heart {
+  image-rendering: pixelated;
+  position: relative;
+
+  width: 2rem;
+  height: 2rem;
+}
